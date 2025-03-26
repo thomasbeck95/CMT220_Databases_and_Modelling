@@ -10,3 +10,5 @@ where continent = 'Asia'
 and Percentage > 50.0
 and country.name not in ('Armenia', 'Georgia', 'Azerbaijan','Israel')
 ;
+
+-- ANSWER = 98.98
